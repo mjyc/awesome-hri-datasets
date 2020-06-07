@@ -11,7 +11,7 @@ This list is curated because _testing human robot interaction is difficult_.
 
 ## Human Simulators
 
-_This section includes indirectly related work._
+This list includes _indirectly_ related work.
 
 - [The Oz of Wizard: Simulating the Human for Interaction Research](https://dl.acm.org/doi/pdf/10.1145/1514095.1514115) by Steinfeld, Jenkins, and Jenkins
 - [Timing in Multimodal Turn-Taking Interactions: Control and Analysis Using Timed Petri Nets](https://dl.acm.org/doi/pdf/10.5898/JHRI.1.1.Chao) by Chao & Thomaz
