@@ -8,6 +8,7 @@ This list is curated because _testing human robot interaction is difficult_.
 - MHHRI [[paper]](https://ieeexplore.ieee.org/document/8003432)[[project page]](https://www.cl.cam.ac.uk/research/rainbow/projects/mhhri/) - developed for studying personality simultaneously in human-human interactions (HHI) and human-robot interactions (HRI) and its relationship with engagement; contains data, audio, video, depth, EDA, temperature, 3-axis wrist acceleration sensor data and self-/acquaintance-assessed personality, self-reported engagement measures for 2 human-human and 3 human-robot interactions (total 6hrs).
 - P2PSTORY [[paper]](https://dl.acm.org/doi/pdf/10.1145/3173574.3174008)[[project page]](https://www.media.mit.edu/projects/p2pstory/overview/) - contains (i) time-synchronized video and audio recordings, (ii) behavior, and prosodic feature annotations, and (iii) demographic and socio-emotional development profiles, and subjective measures of children's perceived the effectiveness of their interaction partner in terms of attention and understanding.
 - UE-HRI [[paper]](https://dl.acm.org/doi/pdf/10.1145/3136755.3136814)[[project page]](http://www.tsi.telecom-paristech.fr/aao/en/2017/05/18/ue-hri-dataset/) - dataset of spontaneous interactions between a robot and humans, of which 54 interactions (between 4 and 15-minute duration each); contains various levels of engagement annotations and subjective ratings of the interaction.
+- GoLD [[paper]](https://arxiv.org/pdf/2007.14987.pdf) - a multimodal dataset of common household objects described bypeople using either spoken or written language.
 
 ## Human Simulators
 
@@ -19,6 +20,7 @@ This list includes _indirectly_ related work.
 - [Testing RxJS Code with Marble Diagrams](https://rxjs-dev.firebaseapp.com/guide/testing/marble-testing) - a tool for testing program that takes/outputs "stream", which contains value over time.
 - [OpenPHRI: a generic framework to easily and safely control robots in interactions with humans](https://github.com/open-phri/open-phri) - [An Open-Source Library for Physical Human–Robot Interaction] by Benjamin Navarro, Aïcha Fonte, Philippe Fraisse, Gérard Poisson, and Andrea Cherubini
 - [Human actor animations in Gazebo](http://gazebosim.org/tutorials?tut=actor)
+- [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) is a physics-based simulation framework for physical human-robot interaction and robotic assistance.
 
 ## License
 
