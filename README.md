@@ -15,12 +15,12 @@ This list is curated because _testing human robot interaction is difficult_.
 This list includes _indirectly_ related work.
 
 - [The Oz of Wizard: Simulating the Human for Interaction Research](https://dl.acm.org/doi/pdf/10.1145/1514095.1514115) by Steinfeld, Jenkins, and Jenkins
-- [Timing in Multimodal Turn-Taking Interactions: Control and Analysis Using Timed Petri Nets](https://dl.acm.org/doi/pdf/10.5898/JHRI.1.1.Chao) by Chao & Thomaz
-- [MORSE: the Modular Open Robots Simulator Engine](https://github.com/morse-simulator/morse) - [Simulation and HRI Recent Perspectiveswith the MORSE Simulator](https://pub.uni-bielefeld.de/download/2685211/2702024) by Séverin Lemaignan, Marc Hanheide, Michael Karg, Harmish Khambhaita, Lars Kunze, FlorianLier, Ingo Lutkebohle, and Grégoire Milliez
-- [Testing RxJS Code with Marble Diagrams](https://rxjs-dev.firebaseapp.com/guide/testing/marble-testing) - a tool for testing program that takes/outputs "stream", which contains value over time.
-- [OpenPHRI: a generic framework to easily and safely control robots in interactions with humans](https://github.com/open-phri/open-phri) - [An Open-Source Library for Physical Human–Robot Interaction] by Benjamin Navarro, Aïcha Fonte, Philippe Fraisse, Gérard Poisson, and Andrea Cherubini
-- [Human actor animations in Gazebo](http://gazebosim.org/tutorials?tut=actor)
 - [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) is a physics-based simulation framework for physical human-robot interaction and robotic assistance.
+- [Human actor animations in Gazebo](http://gazebosim.org/tutorials?tut=actor)
+- [OpenPHRI: a generic framework to easily and safely control robots in interactions with humans](https://github.com/open-phri/open-phri) - [An Open-Source Library for Physical Human–Robot Interaction] by Benjamin Navarro, Aïcha Fonte, Philippe Fraisse, Gérard Poisson, and Andrea Cherubini
+- [MORSE: the Modular Open Robots Simulator Engine](https://github.com/morse-simulator/morse) - [Simulation and HRI Recent Perspectiveswith the MORSE Simulator](https://pub.uni-bielefeld.de/download/2685211/2702024) by Séverin Lemaignan, Marc Hanheide, Michael Karg, Harmish Khambhaita, Lars Kunze, FlorianLier, Ingo Lutkebohle, and Grégoire Milliez
+- [Timing in Multimodal Turn-Taking Interactions: Control and Analysis Using Timed Petri Nets](https://dl.acm.org/doi/pdf/10.5898/JHRI.1.1.Chao) by Chao & Thomaz
+- [Testing RxJS Code with Marble Diagrams](https://rxjs-dev.firebaseapp.com/guide/testing/marble-testing) - a tool for testing program that takes/outputs "stream", which contains value over time.
 
 ## License
 
