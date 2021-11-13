@@ -21,6 +21,7 @@ This list includes _indirectly_ related work.
 - [MORSE: the Modular Open Robots Simulator Engine](https://github.com/morse-simulator/morse) - [Simulation and HRI Recent Perspectiveswith the MORSE Simulator](https://pub.uni-bielefeld.de/download/2685211/2702024) by Séverin Lemaignan, Marc Hanheide, Michael Karg, Harmish Khambhaita, Lars Kunze, FlorianLier, Ingo Lutkebohle, and Grégoire Milliez
 - [Timing in Multimodal Turn-Taking Interactions: Control and Analysis Using Timed Petri Nets](https://dl.acm.org/doi/pdf/10.5898/JHRI.1.1.Chao) by Chao & Thomaz
 - [Testing RxJS Code with Marble Diagrams](https://rxjs-dev.firebaseapp.com/guide/testing/marble-testing) - a tool for testing program that takes/outputs "stream", which contains value over time.
+- [VISUAL COMPONENTS](https://www.visualcomponents.com/) - Design the factories of the future
 
 ## License
 
